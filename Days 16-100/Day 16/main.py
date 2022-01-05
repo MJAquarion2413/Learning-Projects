@@ -34,4 +34,4 @@ if __name__ == "__main__":
 # - refilling the machine
 # - changing costs, resources needed
 # - adding recipes
-# -
+# - open hours
